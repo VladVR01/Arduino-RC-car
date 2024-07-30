@@ -8,7 +8,7 @@ The Car has a gearbox with 4 gears that is controlled by 3 servos(1 for 1-2, ano
 The gearbox as well as the frame were 3D printed
 (gearbox site)
 
-### Hardware components used for Remote Controlled Car
+### Hardware components used for the car
 
 - Arduino Uno
 - Battery [ 12V, +2000 mAh ] to power-up motors
