@@ -15,6 +15,9 @@ The gearbox as well as the frame were 3D printed
 - 1 12V 130RPM motor to power the rear wheels trough the gearbox
 - Button to turn on/off the car
 - Car structure, built by Mattias in Catia
+<img src="doc/frame.png" width="60%" alt="electric scheme">
+
+
 
 ### Software structure
 
@@ -22,9 +25,10 @@ The software was entirely made with c++
 
 ### Electrical schematics
 
-<img src="doc/electric1.png" width="20%" alt="electric scheme">
-<img src="doc/electric2.png" width="20%" alt="electric scheme">
+<img src="doc/electric1.png" width="60%" alt="electric scheme">
+<img src="doc/electric2.png" width="60%" alt="electric scheme">
 
+### Final car build
 
-
+<img src="doc/arduino.png" width="40%" alt="arduino">
 
