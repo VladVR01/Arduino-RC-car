@@ -22,8 +22,8 @@ The software was entirely made with c++
 
 ### Electrical schematics
 
-<img src="doc/img/electric1.jpg" width="20%" alt="controller_final">
-<img src="doc/img/electric2.jpg" width="20%" alt="controller_final">
+<img src="doc/electric1.jpg" width="20%" alt="electric scheme">
+<img src="doc/electric2.jpg" width="20%" alt="electric scheme">
 
 
 
