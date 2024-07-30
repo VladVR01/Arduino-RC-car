@@ -1,5 +1,7 @@
 # Remote Controlled Car build with Arduino Uno/Nano and communication via Bluetooth and an automatic gearbox
 
+![car1](https://github.com/user-attachments/assets/5e2bfed2-ca6b-4c0a-943e-87d879e1ade6)
+
 This car was made by my friend Mattias and me for our college project
 The Car has a gearbox with 4 gears that is controlled by 3 servos(1 for 1-2, another for 3-4 and one for reverse)
 
